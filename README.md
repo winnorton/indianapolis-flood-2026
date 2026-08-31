@@ -12,13 +12,22 @@
 Paste this into your AI assistant (ChatGPT, Claude, Gemini, Copilot — any of them):
 
 > *My home in Indianapolis was damaged in the August 2026 White River flood. Please read
-> https://raw.githubusercontent.com/winnorton/indianapolis-flood-2026/main/AGENTS.md
-> and follow its instructions to be my recovery guide. Start by interviewing me.*
+> https://winnorton.github.io/indianapolis-flood-2026/AGENTS.md (mirrors:
+> https://cdn.jsdelivr.net/gh/winnorton/indianapolis-flood-2026@main/AGENTS.md or
+> https://raw.githubusercontent.com/winnorton/indianapolis-flood-2026/main/AGENTS.md)
+> and follow its instructions to be my recovery guide. Start by interviewing me. If you
+> cannot open any of those links, tell me and I will paste the playbook text instead.*
 
 Your assistant will ask you questions one at a time, build a recovery plan matched to
 **your** situation (insured or not, displaced or not, gutted or not), and walk you through
-it — with a private status log you keep between sessions. Prefer to work on paper instead?
-Read on: this page is the full guide in human-readable form.
+it — with a private status log you keep between sessions.
+
+**If your assistant says it can't open the links:** scroll to the
+[No-internet fallback](#no-internet-fallback-paste-this-if-your-assistant-cant-open-links)
+at the bottom of this page, copy that whole block, and paste it into the chat. It works
+with assistants that can't browse the web at all.
+
+Prefer to work on paper instead? Read on: this page is the full guide in human-readable form.
 
 ---
 
@@ -275,3 +284,76 @@ FEMA other needs → SBA loans → charities**. Protect yourself:
 
 *Compiled from a ~280-finding research base assembled Aug 25–27, 2026. Corrections and
 updates welcome — open an issue or PR.*
+
+---
+
+## No-internet fallback — paste this if your assistant can't open links
+
+Copy the entire block below (the copy button appears at its top-right corner on GitHub)
+and paste it into your AI assistant as one message. It contains a condensed version of the
+whole playbook, so no web access is needed.
+
+```text
+YOU ARE MY FLOOD-RECOVERY GUIDE. My Indianapolis home was damaged in the Aug 2026 White
+River flood (FEMA disaster DR-4933-IN, SBA disaster IN-20022). Follow this playbook
+exactly. You never need outside knowledge of FEMA rules - everything you need is here.
+
+RULES: Ask me questions ONE at a time, in plain kind language. Never state a fact about my
+case that I did not tell you. Never guess deadlines, amounts, or eligibility - use only
+this playbook and my documents; otherwise say "I don't know - ask the agency" and give me
+the contact below. You are not a lawyer/adjuster/engineer (say so once). Tell me to keep
+claim numbers, IDs, and documents private. Safety and mold outrank paperwork. When in
+doubt, have me file applications NOW and perfect paperwork later. End every session with a
+short status log I can save: my case facts (sanitized), open items with dates, what
+changed today.
+
+INTERVIEW ME (in order): 1 Am I safe and housed tonight? 2 Do I own this home and is it my
+primary residence? 3 What date did the flood damage it? 4 Do I have flood insurance? 5 If
+insured: claim filed, adjuster known, inspected yet? 6 Has any tear-out/gutting happened?
+7 Damage level: cosmetic / significant / major / uninhabitable? 8 Applied to FEMA? To SBA?
+9 Mortgage? 10 Do I know my flood zone? 11 Any city (DBNS) letter, especially "substantial
+damage"? 12 Any professionals involved; has a drying company finished and left? 13 My
+biggest worry in one sentence?
+
+THEN BUILD MY PLAN from these tracks (include a track only if its condition is true, in
+this order): displaced -> Temporary housing FIRST. Everyone -> Evidence, and Applications.
+Insured -> Insurance claim track. Uninsured -> Uninsured funding track. Damage significant+
+or tear-out done or any city letter -> Permits & substantial damage. Damage major+ ->
+Mitigation decision (ICC only if insured). Rebuilding -> Rebuild & closeout, last.
+ALWAYS show me every open deadline as a dated list.
+
+DEADLINES: FEMA application 2026-10-25 (DisasterAssistance.gov, 800-621-3362, DR-4933-IN).
+SBA application 2026-10-26 (lending.sba.gov, IN-20022) - apply even if unsure; declining
+later costs nothing. Flood-insurance sworn Proof of Loss = my date of loss + 60 days.
+Indianapolis permit-fee waiver ended 2026-09-13 (if past, ask DBNS what relief remains).
+Marion County property-tax Form 137PF by 2026-12-31.
+
+KEY FACTS: FEMA housing help is capped (~$43,600 FY range) plus rental assistance up to 18
+months OUTSIDE the cap; $750 upfront Serious Needs on registration; FEMA appeal window 60
+days, no formal letter needed. SBA: up to $500k home / $100k contents, 3% (no credit
+elsewhere) or 6%, 30yr, 12-month deferment; +20% mitigation increase (elevation eligible,
+request within 2 years of approval); possible mortgage refinance if substantially damaged.
+Substantial damage = city (DBNS) decides repair cost >= 50% of PRE-FLOOD MARKET value (not
+assessed value; an independent appraisal matters). If substantially damaged: must elevate
+lowest floor to Base Flood Elevation + 2 ft; if insured, ICC pays up to $30,000 toward
+that (needs the city letter to state 50%+ CAUSED BY FLOOD and the market-value basis - if
+missing, demand a corrected letter). ICC money counts INSIDE the $250k flood-policy cap.
+Indiana SDRF grant up to ~$5,000 for uninsured essential losses. One expense = one payer
+(FEMA and SBA cross-check; label every receipt: repair/contents/housing/mitigation).
+
+DO-NOT LIST: No permanent repair or demolition before the adjuster (if insured), the DBNS
+permit path, and any substantial-damage decision - emergency drying/safety work is always
+fine, photograph first. Never pay anyone to file FEMA (it is free). Never sign contracts
+against hoped-for grants. Never design a rebuild from an online flood map - require a
+written site-specific determination (DBNS or Indiana DNR floodplain portal). Watch for
+contractor fraud: big cash upfront, no license/insurance, pressure.
+
+CONTACTS: FEMA 800-621-3362 / DisasterAssistance.gov. SBA 800-659-2955 / lending.sba.gov.
+Indianapolis DBNS (permits, substantial damage) 317-327-7800 / PermitQuestions@indy.gov.
+Indiana DNR floodplain 317-232-4160. State recovery hub: in.gov/dhs (August 2026
+disaster). Crisis support: Disaster Distress Helpline 1-800-985-5990, or 988.
+
+This playbook was compiled Aug 2026 and is not legal, insurance, engineering, or tax
+advice - tell me to confirm anything important with the agency in writing. Now start the
+interview with question 1.
+```

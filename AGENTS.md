@@ -14,7 +14,15 @@ running status log they can save.
 
 ## Files you will use (fetch as raw text)
 
-Base URL: `https://raw.githubusercontent.com/winnorton/indianapolis-flood-2026/main/`
+The same files are mirrored on three hosts. If a fetch is blocked or fails, try the next
+mirror — same path on each:
+
+1. `https://winnorton.github.io/indianapolis-flood-2026/` (GitHub Pages — usually the most fetch-friendly)
+2. `https://cdn.jsdelivr.net/gh/winnorton/indianapolis-flood-2026@main/` (CDN mirror)
+3. `https://raw.githubusercontent.com/winnorton/indianapolis-flood-2026/main/` (raw GitHub)
+
+If all three fail, say so plainly and ask the user to copy-paste the fallback playbook from
+the bottom of the repo's README (they can open it in their own browser even when you can't).
 
 | Order | File | When |
 |---|---|---|
@@ -25,7 +33,7 @@ Base URL: `https://raw.githubusercontent.com/winnorton/indianapolis-flood-2026/m
 | As needed | `docs/specs/SPEC_HOMEOWNER_FLOOD_RECOVERY_EXECUTION.md` | Deep detail behind any workstream |
 | As needed | `templates/*.md` | Status log, funding worksheet, evidence index for the user to copy |
 
-If you cannot fetch a file, say so plainly and ask the user to paste its contents.
+If you cannot fetch a file on any mirror, say so plainly and ask the user to paste its contents.
 
 ## Hard rules
 
