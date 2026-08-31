@@ -13,6 +13,20 @@ homeowners five figures.
 > important with the agency, your carrier, or a licensed professional, in writing.
 > Compiled from official sources August 25–27, 2026; verify dates before relying on them.
 
+## What's in this repo
+
+| Path | Use it for |
+|---|---|
+| **README.md** (this page) | The strategy guide — programs, money, deadlines, the 50% decision |
+| [docs/specs/SPEC_HOMEOWNER_FLOOD_RECOVERY_EXECUTION.md](docs/specs/SPEC_HOMEOWNER_FLOOD_RECOVERY_EXECUTION.md) | The day-to-day execution runbook: control board, phased steps with completion evidence, halting gates, and agency call scripts |
+| [docs/HOW_THIS_WAS_BUILT.md](docs/HOW_THIS_WAS_BUILT.md) | How this was produced from a one-sentence research seed through multi-AI research, synthesis, and cross-audit — and how to replicate it for your own case |
+| [templates/STATUS_TEMPLATE.md](templates/STATUS_TEMPLATE.md) | Append-only status log — copy it somewhere **private** and make it your single source of truth |
+| [templates/FUNDING_WORKSHEET.md](templates/FUNDING_WORKSHEET.md) | The 50% test, the NFIP combined-cap check, and the project funding ledger |
+| [templates/EVIDENCE_INDEX_TEMPLATE.md](templates/EVIDENCE_INDEX_TEMPLATE.md) | Damage/tear-out evidence manifest (critical if you gutted before the adjuster saw it) |
+
+**Suggested path:** read this page → copy the three templates into a private folder → work
+the spec's Control Board top to bottom. Fill personal details only into your private copies.
+
 ---
 
 ## The event identifiers you will need on every form
