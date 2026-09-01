@@ -32,7 +32,8 @@ commits the user to nothing; missing a window is unrecoverable.
 1d. **If a spouse or partner will handle FEMA calls,** return the *Authorization for the
    Release of Information* form that comes with the acknowledgment letter. FEMA will not
    discuss the file with a household member who is not the applicant.
-2. **SBA — apply by 2026-10-26** (IN-20022) at lending.sba.gov. Explain honestly: it's a
+2. **SBA — apply by 2026-10-25** (IN-20022; the SBA event record's date — a Sunday, so
+   file by **Friday 2026-10-23**) at lending.sba.gov. Explain honestly: it's a
    loan, but applying ≠ accepting; a declined or cancelled offer never counts against other
    aid; event rates are 3% (no credit elsewhere) / 6%; up to $500k real estate + $100k
    contents; 12-month deferment. It also unlocks the +20% mitigation money and possible

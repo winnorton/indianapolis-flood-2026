@@ -17,12 +17,13 @@ If today is chaotic, do only the first unblocked `NOW` row in the Control Board.
 a task done from memory: save the confirmation, letter, or dated call note first.
 
 1. Call DBNS at **317-327-7800** or email **PermitQuestions@indy.gov** about your property's
-   permit path, fee-waiver eligibility (window ends **2026-09-13**), and a written
+   permit path, fee-waiver eligibility (window ends **2026-09-13** — a Sunday; submit by
+   **Friday 2026-09-11**), and a written
    site-specific BFE/floodway determination (Appendix B script).
 2. Ask your flood-insurance adjuster to confirm your **date of loss** and **Proof of Loss
    deadline** (60 days after the date of loss) in writing (Appendix A script).
-3. Apply to FEMA under **DR-4933-IN** by **2026-10-25** and to SBA under **IN-20022** by
-   **2026-10-26**, if you haven't.
+3. Apply to FEMA under **DR-4933-IN** and to SBA under **IN-20022** by **2026-10-25** —
+   both dates fall on a Sunday, so file by **Friday 2026-10-23** — if you haven't.
 4. Freeze and index your tear-out/damage evidence; keep sensitive records out of any public
    or shared repository.
 5. Check your FEMA portal weekly and respond to every notice by its stated date.
@@ -49,10 +50,10 @@ your status log is the append-only history.
 
 | Status | Action | Hard date / trigger | Waiting on | Done when | Evidence ref |
 |---|---|---|---|---|---|
-| NOW | DBNS: fee-waiver eligibility, permit intake, SD-evaluation intake, written BFE/floodway determination request | Waiver ends 2026-09-13 | DBNS / IDNR | Written response with intake number | |
+| NOW | DBNS: fee-waiver eligibility, permit intake, SD-evaluation intake, written BFE/floodway determination request | Waiver ends 2026-09-13 (Sunday — submit by Fri 2026-09-11) | DBNS / IDNR | Written response with intake number | |
 | NOW | Carrier: confirm date of loss + Proof of Loss deadline in writing | Today | Adjuster | Both dates in writing | |
-| NOW | FEMA application (DR-4933-IN) | 2026-10-25 | — | Submission identifier issued | |
-| NOW | SBA application (IN-20022) | 2026-10-26 | — | Application accepted | |
+| NOW | FEMA application (DR-4933-IN) | 2026-10-25 (Sunday — file by Fri 2026-10-23) | — | Submission identifier issued | |
+| NOW | SBA application (IN-20022) | 2026-10-25 (Sunday — file by Fri 2026-10-23) | — | Application accepted | |
 | NOW | Name secure evidence root; freeze and index evidence | Today | You | Index complete; originals preserved | |
 | NEXT | Independent pre-flood market-value appraisal | Before SD decision | Appraiser | Signed appraisal | |
 | NEXT | Itemized repair estimate + three comparable mitigation bids | Before mitigation decision | Contractors | Comparable written bids | |
@@ -66,7 +67,7 @@ your status log is the append-only history.
 
 ```text
 W0 exact dates + written contacts
- ├── W0A DBNS fee-waiver / permit-intake lane (start now; 2026-09-13 cutoff)
+ ├── W0A DBNS fee-waiver / permit-intake lane (start now; 2026-09-13 cutoff — a Sunday, effectively Fri 2026-09-11)
  ├── W1 FEMA / SBA / NFIP applications
  └── W2 evidence + neutral appraisal + estimates
           └── W3 DBNS substantial-damage letter + complete permits
@@ -86,7 +87,7 @@ contract, assigning ICC, or starting permanent work.
 | Check | Expected | If it fails |
 |---|---|---|
 | Disaster identity | DR-4933-IN, declared 2026-08-25, Marion County designated for Individual Assistance, FEMA deadline 2026-10-25 | Resolve via FEMA helpline against the official record |
-| SBA identity | IN-20022, physical-damage deadline 2026-10-26, event rates 3%/6% | Call SBA; don't rely on generic "60-day" language |
+| SBA identity | IN-20022, physical-damage deadline 2026-10-25 per the SBA event record (a Sunday — file by Fri 2026-10-23), event rates 3%/6% | Call SBA; don't rely on generic "60-day" language |
 | NFIP clock | Carrier confirms YOUR recorded date of loss and exact POL deadline in writing | Escalate to a claims supervisor; manage to the earliest plausible deadline meanwhile |
 | Policy status | Carrier confirms coverage limits and renewal date from the declarations page | Request corrections or cure options immediately |
 | Local process | Written site-specific BFE (NAVD88), floodway/fringe status, required design elevation, and permit sequence — GIS overlays are not a survey | Request a FARA via the Indiana Floodplain Information Portal; do not finalize design from a digital map |

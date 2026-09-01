@@ -14,8 +14,9 @@ homeowner can influence the inputs honestly: an independent appraisal sets the v
 ## Steps
 
 1. **Call DBNS now** — 317-327-7800 / PermitQuestions@indy.gov (script: spec Appendix B).
-   Ask about: permit requirements, fee-waiver eligibility (window closed **2026-09-13** —
-   if past, ask what fee relief remains), Substantial Damage Evaluation intake, and a
+   Ask about: permit requirements, fee-waiver eligibility (window ends **2026-09-13**, a
+   Sunday — submit by **Friday 2026-09-11**; if past, ask what fee relief remains),
+   Substantial Damage Evaluation intake, and a
    **written site-specific flood determination** (BFE, floodway vs fringe, required design
    elevation). *Done when:* a dated written response or intake number exists.
 2. **Pause non-emergency repair work** until DBNS states the permit path. Emergency
@@ -36,7 +37,8 @@ homeowner can influence the inputs honestly: an independent appraisal sets the v
 7. **Demolishing a second structure on the parcel** (`SECOND_STRUCTURE` = yes — an
    outbuilding or second house, even when the main home is fine): the demolition contractor
    files the **wrecking permit application** and a permission-to-demolish form; both are
-   fee-waiver eligible through 2026-09-13. Before the crew arrives: photograph the
+   fee-waiver eligible through 2026-09-13 (a Sunday — file by Fri 2026-09-11). Before the
+   crew arrives: photograph the
    structure inside and out, ask the flood adjuster **in writing** whether it was a listed
    building on the policy and what, if anything, is payable, and keep the bid, signed
    contract, asbestos test result, and utility-disconnect records in the evidence binder.

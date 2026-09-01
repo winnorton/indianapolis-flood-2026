@@ -80,10 +80,10 @@ the spec's Control Board top to bottom. Fill personal details only into your pri
 
 | Deadline | Date | Notes |
 |---|---|---|
-| Indianapolis **permit-fee waiver** | permits submitted **Aug 14 – Sept 13, 2026** | Mayor's executive order suspends fees on eligible flood-repair permits (floodplain development, structural, wrecking, drainage, craft). Call DBNS to confirm YOUR property's eligibility and what a *complete* submission requires — don't assume preliminary plans qualify. |
+| Indianapolis **permit-fee waiver** | permits submitted **Aug 14 – Sept 13, 2026** | **Sept 13 is a Sunday** — have your submission in by **Friday Sept 11** unless DBNS confirms in writing a channel that accepts it later. Mayor's executive order suspends fees on eligible flood-repair permits (floodplain development, structural, wrecking, drainage, craft). Call DBNS to confirm YOUR property's eligibility and what a *complete* submission requires — don't assume preliminary plans qualify. |
 | **NFIP Proof of Loss** | **60 days from YOUR date of loss** (mid-October for most) | The clock runs from the date of loss your carrier records — not the declaration date. Ask your adjuster to confirm both dates **in writing**. Watch [FEMA/WYO bulletins](https://agents.floodsmart.gov/bulletins) for an event-specific extension; none was issued as of Aug 27, 2026. |
 | **FEMA application** (DR-4933-IN) | **Oct 25, 2026** | Apply at [DisasterAssistance.gov](https://www.disasterassistance.gov/) or 800-621-3362. |
-| **SBA physical-damage loan application** (IN-20022) | **Oct 26, 2026** | Apply at [lending.sba.gov](https://lending.sba.gov/search-disaster/). Apply even if you may not take the loan. |
+| **SBA physical-damage loan application** (IN-20022) | **Oct 25, 2026** | The SBA event record's date (earlier materials showed Oct 26 — don't rely on it). **Oct 25 is a Sunday, so file by Friday Oct 23.** Apply at [lending.sba.gov](https://lending.sba.gov/search-disaster/). Apply even if you may not take the loan. |
 | Property-tax relief **Form 137PF** | **Dec 31, 2026** | Marion County Assessor; flood-specific reassessment statute (IC 6-1.1-4-11.5). Backup: Form 137R by Dec 31, 2027. |
 | ICC mitigation work completion | ≈ **6 years from date of loss** (~Aug 2032) | FEMA standing waiver W-15038; FEMA has extended further for past major disasters. |
 
@@ -115,7 +115,7 @@ the spec's Control Board top to bottom. Fill personal details only into your pri
    price-list estimate allows — the routing for that shortfall is in the money map below.
 5. **Call DBNS** (317-327-7800 / PermitQuestions@indy.gov) — start the permit and
    substantial-damage conversation NOW (script below), and submit permit applications before
-   **Sept 13** to capture the fee waiver.
+   **Sept 13** to capture the fee waiver (a Sunday — in practice by **Friday Sept 11**).
 6. **Do no further permanent repair or demolition work** until your adjuster has what they
    need and DBNS has told you your permit path. Emergency work (safety, drying, mold
    prevention, stabilization) always comes first and is allowed — photograph before and after.
@@ -187,7 +187,7 @@ here, everything freestanding — appliances, furniture, tools, electronics, boa
 |---|---|---|
 | **FEMA Other Needs Assistance** | Apply (WS2); FEMA inspects or requests documents | Its named categories only: appliances, room furnishings, items required for paid work or school, cleanup tools bought after the disaster. Depreciated value. Recreational and hobby property is generally outside. |
 | **IRS casualty-loss deduction** | Itemized inventory with depreciated values; a tax preparer | The whole list, subject to floors that depend on whether Congress designates this a qualified disaster. Ask a preparer. |
-| **SBA personal-property loan** | Application by 2026-10-26 | Up to $100,000 of verified uninsured loss, as a loan. Declining it is a real choice; FEMA no longer requires an SBA application. |
+| **SBA personal-property loan** | Application by 2026-10-25 (a Sunday — file by Fri 2026-10-23) | Up to $100,000 of verified uninsured loss, as a loan. Declining it is a real choice; FEMA no longer requires an SBA application. |
 
 Build one inventory and let each path take what it takes. The
 [contents template](templates/CONTENTS_INVENTORY_TEMPLATE.md) has the workflow that worked:
@@ -280,7 +280,8 @@ FEMA other needs → SBA loans → charities**. Protect yourself:
    basis). Check it the day it arrives; you generally have 60 days to appeal FEMA decisions.
 3. **Letting the building claim silently eat the ICC** ($30k lives *inside* the $250k
    combined cap). Model the total before accepting settlements.
-4. **Missing a 60-day window** — FEMA (Oct 25), SBA (Oct 26), Proof of Loss (60 days from
+4. **Missing a 60-day window** — FEMA and SBA (both Oct 25 — a Sunday; file by Friday
+   Oct 23), Proof of Loss (60 days from
    your date of loss). Apply first, perfect the paperwork later.
 5. **Designing from a GIS map.** Get the written site-specific BFE/floodway determination
    before signing construction contracts.
@@ -404,11 +405,13 @@ apply. ALWAYS show me every open deadline as a dated list, including any FEMA
 Request-for-Information date (30 days from the letter).
 
 DEADLINES: FEMA application 2026-10-25 (DisasterAssistance.gov, 800-621-3362, DR-4933-IN).
+2026-10-25 is a Sunday - treat Friday 2026-10-23 as the safe last day for FEMA and SBA.
 FEMA posts letters to the portal within minutes of applying; one is often a Request for
 Information due 30 days from its date - read the portal the same day. SBA application
-2026-10-26 (lending.sba.gov, IN-20022) - apply even if unsure; declining later costs
+2026-10-25 (lending.sba.gov, IN-20022) - apply even if unsure; declining later costs
 nothing. Flood-insurance sworn Proof of Loss = my date of loss + 60 days. Indianapolis
-permit-fee waiver ends 2026-09-13 (if that date has passed, ask DBNS what relief remains).
+permit-fee waiver ends 2026-09-13, a Sunday - submit by Friday 2026-09-11 (if that date has
+passed, ask DBNS what relief remains).
 Marion County property-tax Form 137PF by 2026-12-31.
 
 KEY FACTS: FEMA housing help is capped (~$43,600 FY range) plus rental assistance up to 18

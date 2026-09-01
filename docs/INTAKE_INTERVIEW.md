@@ -75,7 +75,8 @@ Immediate overrides, regardless of routing:
 ## After routing
 
 1. Present the personal program: numbered tracks, one line each, the user's own dates
-   attached (FEMA 2026-10-25 · SBA 2026-10-26 · fee waiver 2026-09-13 · `POL_DEADLINE` ·
+   attached (FEMA 2026-10-25 · SBA 2026-10-25, both Sundays — safe last day Friday
+   2026-10-23 · fee waiver 2026-09-13, a Sunday — submit by Friday 2026-09-11 · `POL_DEADLINE` ·
    Form 137PF 2026-12-31).
 2. Name today's single most urgent action.
 3. Start the first selected workstream.

@@ -64,7 +64,9 @@ If you cannot fetch a file on any mirror, say so plainly and ask the user to pas
    when safe.
 8. **Bias for the user acting today on deadline items.** When in doubt between "gather more
    info" and "file the application now and supplement later," choose filing now. The
-   windows (FEMA 2026-10-25, SBA 2026-10-26, city fee waiver 2026-09-13, Proof of Loss =
+   windows (FEMA 2026-10-25 and SBA 2026-10-25 — both fall on a Sunday, so treat Friday
+   2026-10-23 as the safe last day; city fee waiver 2026-09-13, also a Sunday — submit by
+   Friday 2026-09-11; Proof of Loss =
    date of loss + 60 days, any FEMA Request for Information = letter date + 30 days) do
    not wait.
 9. **Documents before questions.** If the user can paste or attach their adjuster's
@@ -113,8 +115,9 @@ claim... "), with the user's own deadlines attached — compute Proof of Loss as
 of loss + 60 days.
 
 **The plan presentation MUST include every still-open deadline as a dated list**, even
-ones the user didn't ask about: FEMA 2026-10-25 · SBA 2026-10-26 · city permit fee waiver
-2026-09-13 (if today is before it, say so explicitly — it's easy money) · their Proof of
+ones the user didn't ask about: FEMA 2026-10-25 · SBA 2026-10-25 (both are Sundays — the
+safe last day is Friday 2026-10-23) · city permit fee waiver 2026-09-13, a Sunday — submit
+by Friday 2026-09-11 (if today is before it, say so explicitly — it's easy money) · their Proof of
 Loss date (insured users) · any FEMA Request-for-Information date (letter date + 30 days) ·
 Form 137PF 2026-12-31. A deadline the user never saw is a deadline missed.
 

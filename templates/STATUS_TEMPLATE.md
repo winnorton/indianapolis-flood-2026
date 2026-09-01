@@ -30,8 +30,8 @@ Controlling runbook: `docs/specs/SPEC_HOMEOWNER_FLOOD_RECOVERY_EXECUTION.md`
 - [ ] Dry-out invoice vs. adjuster estimate reconciled; supplement packet requested from firm
 - [ ] Vehicle: auto carrier settlement in hand; rental-car coverage answer in writing
 - [ ] Contents inventory built; candidates confirmed or struck; values filled; photo index complete
-- [ ] SBA application filed (deadline 2026-10-26)
-- [ ] DBNS: fee-waiver eligibility + complete-submission checklist (waiver ends 2026-09-13)
+- [ ] SBA application filed (deadline 2026-10-25 — a Sunday; file by Fri 2026-10-23)
+- [ ] DBNS: fee-waiver eligibility + complete-submission checklist (waiver ends 2026-09-13 — a Sunday; submit by Fri 2026-09-11)
 - [ ] Written site-specific BFE/floodway determination (FARA/DBNS)
 - [ ] Evidence index complete; remediation firm drying logs + final moisture readings obtained
 - [ ] Independent pre-flood market-value appraisal commissioned
