@@ -17,12 +17,18 @@ Controlling runbook: `docs/specs/SPEC_HOMEOWNER_FLOOD_RECOVERY_EXECUTION.md`
 - FEMA application (DR-4933-IN): filed `__________` · identifier ending: `____`
 - SBA application (IN-20022): filed `__________` · identifier ending: `____`
 - Building coverage limit: `$__________` · policy renewal date: `__________`
+- Elevated home, water only underneath: `yes/no` · contents coverage: `yes/no`
+- FEMA Request-for-Information due: `__________` (letter date + 30 days, if one posted)
 - Secure evidence root: `__________`
 
 ## Open items (carry forward until closed)
 
 - [ ] Carrier confirms date of loss + POL deadline in writing
 - [ ] FEMA application filed (deadline 2026-10-25)
+- [ ] FEMA portal letters read the day of filing; any RFI answered by its date
+- [ ] Insurance settlement breakdown + uninsured invoices uploaded to FEMA
+- [ ] Dry-out invoice vs. adjuster estimate reconciled; supplement packet requested from firm
+- [ ] Vehicle: auto carrier settlement in hand; rental-car coverage answer in writing
 - [ ] SBA application filed (deadline 2026-10-26)
 - [ ] DBNS: fee-waiver eligibility + complete-submission checklist (waiver ends 2026-09-13)
 - [ ] Written site-specific BFE/floodway determination (FARA/DBNS)

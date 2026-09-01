@@ -57,8 +57,9 @@ homeowners five figures.
 | [templates/STATUS_TEMPLATE.md](templates/STATUS_TEMPLATE.md) | Append-only status log — copy it somewhere **private** and make it your single source of truth |
 | [templates/FUNDING_WORKSHEET.md](templates/FUNDING_WORKSHEET.md) | The 50% test, the NFIP combined-cap check, and the project funding ledger |
 | [templates/EVIDENCE_INDEX_TEMPLATE.md](templates/EVIDENCE_INDEX_TEMPLATE.md) | Damage/tear-out evidence manifest (critical if you gutted before the adjuster saw it) |
+| `private/` (you create it) | Your filled-in templates, claim PDFs, FEMA letters, photos. It is git-ignored, so it can never be pushed by accident |
 
-**Suggested path:** read this page → copy the three templates into a private folder → work
+**Suggested path:** read this page → copy the three templates into `private/` → work
 the spec's Control Board top to bottom. Fill personal details only into your private copies.
 
 ---
@@ -90,19 +91,26 @@ the spec's Control Board top to bottom. Fill personal details only into your pri
 
 1. **Apply to FEMA** (DR-4933-IN) — registration alone triggers review for the upfront **$750
    Serious Needs Assistance** payment and Displacement Assistance, and starts housing help.
-   Answer every FEMA notice by its stated date; check your portal weekly.
+   **Then log in to the DisasterAssistance.gov portal the same day.** Letters post within
+   minutes of filing, and one is often a *Request for Information* with a **30-day clock**
+   (vehicle documents, ownership/occupancy proof, insurance settlement). The mailed packet
+   arrives days later; the clock does not wait for it. After that, check the portal weekly.
 2. **Apply to SBA** (IN-20022) — costs nothing, commits you to nothing. A **declined or
    cancelled** loan offer does *not* count against your other aid. Since 2024 you do **not**
    need an SBA application to get FEMA Other Needs Assistance — but the loan is the largest
    rebuild-financing tool on the table (see below).
 3. **If you have flood insurance: confirm your claim is filed** and get the carrier-recorded
-   date of loss and exact Proof of Loss deadline in writing.
+   date of loss and exact Proof of Loss deadline in writing. When the adjuster later sends
+   you a Proof of Loss to e-sign (usually marked *adjuster-prepared* and *initial*), check
+   the date of loss, coverage limits, deductible, mortgagee, and scope before signing. An
+   initial Proof of Loss is **not a release**; signing it does not waive a supplement.
 4. **Freeze your evidence.** If tear-out/gutting already happened, the adjuster may never see
    the damage in place. Index every pre-tear-out photo and video, contractor invoice,
    disposal receipt, moisture log (ask your remediation firm for their **daily drying logs and
    final material moisture readings** before they disappear), and keep material samples
    (flooring, drywall cut height). Keep originals; never store sensitive documents in a
-   public place.
+   public place. Expect a professional dry-out invoice to exceed what the adjuster's
+   price-list estimate allows — the routing for that shortfall is in the money map below.
 5. **Call DBNS** (317-327-7800 / PermitQuestions@indy.gov) — start the permit and
    substantial-damage conversation NOW (script below), and submit permit applications before
    **Sept 13** to capture the fee waiver.
@@ -146,6 +154,26 @@ corrected letter immediately.
 
 ---
 
+## If your home is already elevated (only the space underneath flooded)
+
+Many riverfront homes were built or rebuilt on posts, piers, or columns with a garage or
+enclosure underneath. If water stayed below the lowest living floor, most of this guide's
+50% / elevation / ICC material **does not apply to you**, and your claim will be small:
+
+- The Standard Flood Insurance Policy covers only a short list of items in an enclosure
+  below the lowest elevated floor of a post-FIRM building — clean-up, utility connections,
+  foundation elements, and similar. Finishes, drywall, flooring, and anything *stored* there
+  are generally excluded, **even if you bought contents coverage**. Confirm the list against
+  your own policy form and ask the adjuster in writing which enclosure items are covered.
+- Expect the estimate to be scoped as "enclosure" and to consist of clean-up, antimicrobial,
+  structural drying, and utility items. The 50% test is very unlikely to trigger.
+- Your program is the short one: evidence (WS1), applications (WS2), the insurance claim
+  (WS3), and closeout (WS8). Open WS5 only if the city sends a letter.
+- The real money question for you is usually the **dry-out invoice vs. the estimate** — see
+  the emergency-mitigation row in the money map.
+
+---
+
 ## Know your flood zone — and whether you're in the floodway
 
 Most of the White River corridor is FEMA **Zone AE** (mapped 1%-annual-chance floodplain),
@@ -183,6 +211,9 @@ regulatory determination. Before you finalize any design:
 | **Indiana SDRF grant** | up to $5,000 | Uninsured essential losses, primary residence, via IDHS. |
 | **IHCDA temporary housing** | choose one | 30-day hotel voucher **or** rental assistance (application fee + one month's rent + deposit) — mutually exclusive. |
 | **Property-tax reassessment** | ongoing savings | Form 137PF by Dec 31, 2026. |
+| **Emergency mitigation shortfall** (dry-out invoice above the NFIP price list) | the gap | The adjuster prices clean-up and drying from a regional price list; a fast professional firm often bills more. Route the gap in order: (1) **supplement** to the carrier with the itemized invoice, daily drying logs, moisture readings, and photos — a request, not an entitlement; (2) the unpaid remainder to **FEMA** as an underinsured loss, by uploading the settlement *breakdown* plus the invoice; (3) **SBA** sizes its loan on verified loss minus insurance; (4) the IRS casualty-loss deduction below. |
+| **IRS casualty-loss deduction** | tax savings | Unreimbursed losses in a federally declared disaster may be deductible (IRS Publication 547, Form 4684); FEMA's own program sheet points to it. Confirm with a tax professional. |
+| **Vehicle losses** | auto carrier first | Comprehensive auto coverage is the primary payer for a flooded car. Rental cars are often **not** covered — get the denial in writing, because FEMA's vehicle Request for Information asks for a settlement *or denial* letter. Never send the same rental invoice to both. |
 | **HMGP elevation/buyout grants** | 75% federal, **contingent** | Hazard Mitigation assistance was **not yet shown as declared** for DR-4933-IN as of late Aug 2026. If it's added and Indianapolis sponsors a project, homeowners participate through the city (you cannot apply directly). Your ICC payout can legally serve as the 25% match — and assigning it to the community guarantees your inclusion in the funded project. **Do not budget HMGP money or delay your recovery waiting for it.** |
 
 ### Don't double-dip (it becomes a debt)
@@ -238,6 +269,12 @@ FEMA other needs → SBA loans → charities**. Protect yourself:
    your policy lapsing — an in-force policy and a valid claim survive a hiatus.)
 8. **Skipping the appraisal.** Assessed value ≠ market value; the appraisal moves the 50%
    denominator and can change the entire outcome.
+9. **Missing the day-one FEMA letter.** A Request for Information can post minutes after you
+   apply, with a 30-day deadline. Read the portal the day you file, not when the mail comes.
+10. **Demolishing a second structure without the paper trail.** A damaged outbuilding or
+    second house on the parcel needs a wrecking permit (fee-waiver eligible through Sept 13),
+    pre-demolition photos, and a written answer from the adjuster on whether it was a listed
+    building on the policy. In the regulatory floodway nothing can be rebuilt on that spot.
 
 ---
 
@@ -256,6 +293,13 @@ FEMA other needs → SBA loans → charities**. Protect yourself:
 > "Please confirm in writing: the date of loss you have recorded, my claim number, the exact
 > sworn Proof of Loss deadline, whether FEMA has issued any written extension for this
 > Indiana event, and what evidence you need given that tear-out occurred before inspection."
+
+### Script — for your remediation / dry-out firm
+> "Please send me, and submit to my flood adjuster (name, email, claim number below), the
+> itemized invoice with equipment counts and days, daily drying logs with temperature and
+> humidity readings, initial and final material moisture readings, the moisture map, the
+> signed work authorization and scope, before/during/after photos, disposal receipts, and the
+> antimicrobial application record. My sworn Proof of Loss deadline is [date]."
 
 ### Script — for DBNS
 > "This concerns flood damage at [address]. Please confirm the Substantial Damage Evaluation
@@ -298,7 +342,9 @@ YOU ARE MY FLOOD-RECOVERY GUIDE. My Indianapolis home was damaged in the Aug 202
 River flood (FEMA disaster DR-4933-IN, SBA disaster IN-20022). Follow this playbook
 exactly. You never need outside knowledge of FEMA rules - everything you need is here.
 
-RULES: Ask me questions ONE at a time, in plain kind language. Never state a fact about my
+RULES: Ask me questions ONE at a time, in plain kind language. If I paste documents
+(adjuster estimate, Proof of Loss, FEMA letters, invoices), read them first and confirm the
+facts in them instead of asking. Never state a fact about my
 case that I did not tell you. Never guess deadlines, amounts, or eligibility - use only
 this playbook and my documents; otherwise say "I don't know - ask the agency" and give me
 the contact below. You are not a lawyer/adjuster/engineer (say so once). Tell me to keep
@@ -310,22 +356,30 @@ changed today.
 INTERVIEW ME (in order): 1 Am I safe and housed tonight? 2 Do I own this home and is it my
 primary residence? 3 What date did the flood damage it? 4 Do I have flood insurance? 5 If
 insured: claim filed, adjuster known, inspected yet? 6 Has any tear-out/gutting happened?
-7 Damage level: cosmetic / significant / major / uninhabitable? 8 Applied to FEMA? To SBA?
-9 Mortgage? 10 Do I know my flood zone? 11 Any city (DBNS) letter, especially "substantial
-damage"? 12 Any professionals involved; has a drying company finished and left? 13 My
-biggest worry in one sentence?
+7 Damage level: cosmetic / significant / major / uninhabitable? 7b Is my home elevated on
+posts/piers and did water stay below the living floor? 8 Applied to FEMA? To SBA? 8b Have I
+read every letter in the FEMA portal, and did I ask FEMA for vehicle help? 9 Mortgage? 10 Do
+I know my flood zone? 11 Any city (DBNS) letter, especially "substantial damage"? 11b Any
+second building on the property damaged or being demolished? 12 Any professionals involved;
+has a drying company finished and left, and what did it bill vs. the adjuster's estimate?
+13 My biggest worry in one sentence?
 
 THEN BUILD MY PLAN from these tracks (include a track only if its condition is true, in
 this order): displaced -> Temporary housing FIRST. Everyone -> Evidence, and Applications.
 Insured -> Insurance claim track. Uninsured -> Uninsured funding track. Damage significant+
 or tear-out done or any city letter -> Permits & substantial damage. Damage major+ ->
 Mitigation decision (ICC only if insured). Rebuilding -> Rebuild & closeout, last.
-ALWAYS show me every open deadline as a dated list.
+Elevated home with water only underneath and no city letter -> keep it short: Evidence,
+Applications, Insurance claim, closeout; tell me the 50%/elevation/ICC material does not
+apply. ALWAYS show me every open deadline as a dated list, including any FEMA
+Request-for-Information date (30 days from the letter).
 
 DEADLINES: FEMA application 2026-10-25 (DisasterAssistance.gov, 800-621-3362, DR-4933-IN).
-SBA application 2026-10-26 (lending.sba.gov, IN-20022) - apply even if unsure; declining
-later costs nothing. Flood-insurance sworn Proof of Loss = my date of loss + 60 days.
-Indianapolis permit-fee waiver ended 2026-09-13 (if past, ask DBNS what relief remains).
+FEMA posts letters to the portal within minutes of applying; one is often a Request for
+Information due 30 days from its date - read the portal the same day. SBA application
+2026-10-26 (lending.sba.gov, IN-20022) - apply even if unsure; declining later costs
+nothing. Flood-insurance sworn Proof of Loss = my date of loss + 60 days. Indianapolis
+permit-fee waiver ends 2026-09-13 (if that date has passed, ask DBNS what relief remains).
 Marion County property-tax Form 137PF by 2026-12-31.
 
 KEY FACTS: FEMA housing help is capped (~$43,600 FY range) plus rental assistance up to 18
@@ -340,6 +394,15 @@ that (needs the city letter to state 50%+ CAUSED BY FLOOD and the market-value b
 missing, demand a corrected letter). ICC money counts INSIDE the $250k flood-policy cap.
 Indiana SDRF grant up to ~$5,000 for uninsured essential losses. One expense = one payer
 (FEMA and SBA cross-check; label every receipt: repair/contents/housing/mitigation).
+Elevated homes: the flood policy covers only clean-up, utility connections and foundation
+items in the enclosure underneath - not finishes or stored contents, even with contents
+coverage; expect a small claim. Dry-out invoice above the adjuster's estimate: ask the
+carrier for a supplement (itemized invoice + drying logs + moisture readings), then the
+unpaid rest goes to FEMA as underinsured loss, then SBA, then the IRS casualty-loss
+deduction. An adjuster-prepared initial Proof of Loss is not a release; signing it keeps
+supplement rights. Flooded car: auto comprehensive pays first; rental cars usually are not
+covered - get that denial in writing for FEMA's vehicle document request; never send one
+invoice to two payers.
 
 DO-NOT LIST: No permanent repair or demolition before the adjuster (if insured), the DBNS
 permit path, and any substantial-damage decision - emergency drying/safety work is always

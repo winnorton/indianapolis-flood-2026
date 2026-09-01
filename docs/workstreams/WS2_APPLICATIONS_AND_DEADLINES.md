@@ -10,8 +10,28 @@ commits the user to nothing; missing a window is unrecoverable.
    help, housing assistance, and other-needs categories (personal property, vehicle,
    generators/dehumidifiers — keep receipts).
    *Done when:* the user has a FEMA application number saved privately.
-   *Then:* check the FEMA portal weekly; answer every notice by its stated date. An
-   inspection visit is normal; the user should show the WS1 evidence.
+   *Then, the same day:* log into the DisasterAssistance.gov portal and open the
+   Correspondence tab. Letters post within minutes of filing. The usual set is a program
+   information sheet, an acknowledgment (which asks for a copy of the insurance settlement
+   or denial as soon as it exists), and often a **Request for Information (RFI)** with a
+   **30-day deadline** from its date. Calendar that date before anything else.
+   *Then:* check the portal weekly; answer every notice by its stated date. An inspection
+   visit is normal; the user should show the WS1 evidence.
+1b. **If the RFI is about a vehicle** (the online form's transportation question triggers
+   it): FEMA wants a list of all household vehicles with year/make/model, both
+   registrations, a signed letter on why the damaged vehicle was needed despite another
+   drivable one, an itemized repair estimate or a total-loss/salvage record, proof of
+   liability coverage, and the auto insurer's **settlement or denial letter**. If the auto
+   carrier paid, FEMA covers only the underinsured remainder — decide whether the paperwork
+   is worth it; skipping it only closes that category. Rental cars: auto carrier first;
+   if it declines, get the denial **in writing** and include the rental invoice in the
+   package. Never send the same invoice to both.
+1c. **Once the flood Proof of Loss is signed, upload the settlement breakdown to FEMA** —
+   the Proof of Loss, the adjuster's estimate, and any uninsured invoices (dry-out, debris).
+   FEMA pays underinsured home losses only after it sees the breakdown, not the total.
+1d. **If a spouse or partner will handle FEMA calls,** return the *Authorization for the
+   Release of Information* form that comes with the acknowledgment letter. FEMA will not
+   discuss the file with a household member who is not the applicant.
 2. **SBA — apply by 2026-10-26** (IN-20022) at lending.sba.gov. Explain honestly: it's a
    loan, but applying ≠ accepting; a declined or cancelled offer never counts against other
    aid; event rates are 3% (no credit elsewhere) / 6%; up to $500k real estate + $100k

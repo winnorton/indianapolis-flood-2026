@@ -1,0 +1,11 @@
+# Your filled-in templates, claim records, letters, and photos never belong in a public
+# repo. Keep them in private/ (never tracked) and reference them by sanitized pointers.
+private/
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.mov
+*.mp4
+*.zip

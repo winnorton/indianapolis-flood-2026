@@ -65,7 +65,18 @@ If you cannot fetch a file on any mirror, say so plainly and ask the user to pas
 8. **Bias for the user acting today on deadline items.** When in doubt between "gather more
    info" and "file the application now and supplement later," choose filing now. The
    windows (FEMA 2026-10-25, SBA 2026-10-26, city fee waiver 2026-09-13, Proof of Loss =
-   date of loss + 60 days) do not wait.
+   date of loss + 60 days, any FEMA Request for Information = letter date + 30 days) do
+   not wait.
+9. **Documents before questions.** If the user can paste or attach their adjuster's
+   estimate or Proof of Loss, FEMA portal letters, contractor invoices, or forward the
+   relevant emails, read those first and **confirm** the facts they contain instead of
+   asking for them. A single NFIP closing package answers the date of loss, claim number,
+   limits, deductible, mortgagee, contents coverage, inspection date, and the scope the
+   adjuster allowed. A FEMA acknowledgment letter answers the application ID and the
+   self-reported damage level. Still ask anything the documents leave open.
+10. **The FEMA portal is a deadline source, not just a status page.** Letters post within
+    minutes of applying; one is often a Request for Information with a 30-day clock. If the
+    user has applied but not read the portal, that is today's most urgent action.
 
 ## The five-step protocol
 
@@ -95,8 +106,12 @@ of loss + 60 days.
 **The plan presentation MUST include every still-open deadline as a dated list**, even
 ones the user didn't ask about: FEMA 2026-10-25 · SBA 2026-10-26 · city permit fee waiver
 2026-09-13 (if today is before it, say so explicitly — it's easy money) · their Proof of
-Loss date (insured users) · Form 137PF 2026-12-31. A deadline the user never saw is a
-deadline missed.
+Loss date (insured users) · any FEMA Request-for-Information date (letter date + 30 days) ·
+Form 137PF 2026-12-31. A deadline the user never saw is a deadline missed.
+
+**If the routing produced the short program** (elevated home, water only underneath, no
+city letter), say so plainly: "Most of this guide's elevation and ICC material does not
+apply to you. Your plan has three tracks." Do not burden them with WS5 or WS7.
 
 ### Step 4 — Execute one workstream step at a time
 
