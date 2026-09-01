@@ -116,6 +116,25 @@ Two dogfood findings did not need a change: the call scripts were right (the Pro
 package did not state the deadline or any extension, exactly what Appendix A asks for), and
 the deadline math held.
 
+### Round two, the same day: contents
+
+The afternoon went to personal property, which the guide had barely mentioned. What it added:
+
+1. **Contents have no home in a building-only claim**, and the guide had no workflow for
+   them. Added a contents template with the sequence that worked: plates, order-history
+   export, debris photos, candidate confirmation, use statement, depreciated value.
+2. **Order exports turn plates into receipts.** An Amazon export matched most of a garage
+   in minutes; a big-box order-details page printed as a receipt with the serial on it; a
+   specialty retailer's 2018 confirmation email priced a camp chair. Added a small
+   standard-library script and a retailer script.
+3. **Photos surfaced items nobody had listed** — a second pressure washer, an air
+   compressor, a dozen chairs — and also a box that proved nothing. Added the candidate-row
+   rule and the "a box is not proof" rule to AGENTS.md.
+4. **FEMA's categories are narrow and the honest use statement matters more than the
+   value.** Added the category table to the README and the never-reword-use rule.
+5. **Declining SBA is a legitimate choice.** The guide had leaned on it as the workhorse;
+   now it says FEMA does not require it and lets the user decide.
+
 ## What lives where in this repo
 
 | Path | What it is |
