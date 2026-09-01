@@ -33,6 +33,15 @@ homeowner can influence the inputs honestly: an independent appraisal sets the v
    (FARA) — a GIS map is not a determination.
 6. **Submit the complete permit package** DBNS specifies — only what they define as
    complete counts.
+7. **Demolishing a second structure on the parcel** (`SECOND_STRUCTURE` = yes — an
+   outbuilding or second house, even when the main home is fine): the demolition contractor
+   files the **wrecking permit application** and a permission-to-demolish form; both are
+   fee-waiver eligible through 2026-09-13. Before the crew arrives: photograph the
+   structure inside and out, ask the flood adjuster **in writing** whether it was a listed
+   building on the policy and what, if anything, is payable, and keep the bid, signed
+   contract, asbestos test result, and utility-disconnect records in the evidence binder.
+   If the parcel is in the **regulatory floodway**, nothing can be permitted on that spot
+   again — say so before the user assumes a future rebuild.
 
 ## Stop / escalate
 

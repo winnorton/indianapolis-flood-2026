@@ -79,6 +79,43 @@ agent work between those inputs.
 6. **Treat AI statements about active deadlines and program status as unverified until tied
    to a primary-source URL and a date.** Agencies change rules by bulletin.
 
+## First dogfood — what a real case taught the guide (September 2026)
+
+The guide was written from research, then run cold against the author's own claim file:
+an adjuster-prepared Proof of Loss, a dry-out invoice, the FEMA portal letters, and the
+inbox. The mismatches became the September 2026 revisions. Generalized, so they apply to
+anyone:
+
+1. **The guide assumed the hard case.** An already-elevated home with water only in the
+   enclosure underneath gets a small clean-up-only claim, and most of the 50% / elevation /
+   ICC material is noise for that user. Added the "already elevated" section, the
+   `ELEVATED` intake flag, and a short-program routing override.
+2. **The first FEMA deadline is set on day one.** Letters post to the portal within minutes
+   of applying, and one was a Request for Information with a 30-day clock. The guide had
+   said "check weekly." Now it says "log in the same day."
+3. **The adjuster-prepared Proof of Loss is a moment the guide had skipped.** Users get an
+   e-signature envelope with a net-claim number and need a checklist for it: what to
+   verify, that it is not a release, that "viewed" is not "signed."
+4. **Emergency dry-out cost is the real gap for small claims.** A premium-speed firm billed
+   well above the NFIP price list. The routing for that shortfall (supplement → FEMA →
+   SBA → casualty-loss deduction) was missing, and the casualty-loss deduction was absent
+   from the money map entirely.
+5. **Documents answer intake faster than questions.** The closing package alone answered
+   five intake questions; the inbox answered the FEMA ID, SBA status, contractor names,
+   and dates. Added the "documents before questions" rule and a document intake question.
+6. **Vehicles and rental cars have their own path.** The auto carrier pays first; rental
+   cars are often not covered; FEMA's vehicle RFI wants the denial in writing. None of
+   that was in the guide.
+7. **A second structure on the parcel was invisible.** Demolition of an outbuilding needs
+   a wrecking permit, pre-demo photos, and a written answer from the adjuster. Added to WS5.
+8. **The repo's own privacy rule needed a mechanism.** The public `docs/` folder and a
+   homeowner's private "docs" folder collide in name. Added a git-ignored `private/`
+   convention and a `.gitignore` that refuses PDFs and photos.
+
+Two dogfood findings did not need a change: the call scripts were right (the Proof of Loss
+package did not state the deadline or any extension, exactly what Appendix A asks for), and
+the deadline math held.
+
 ## What lives where in this repo
 
 | Path | What it is |
