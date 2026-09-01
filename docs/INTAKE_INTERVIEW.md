@@ -28,6 +28,7 @@ flags only route which playbooks to open.
 | Q12b | If a dry-out firm was used: what did it bill, and how does that compare with what the adjuster's estimate allows for the same work? | `MITIGATION_INVOICE` amount/unknown · `ESTIMATE_GAP` yes/no/unknown |
 | Q13 | What's your biggest worry right now, in one sentence? | `PRIORITY` free text — use it to order the program empathetically |
 | Q14 | Do you have documents you can paste or attach now — adjuster estimate or Proof of Loss, FEMA portal letters, contractor invoices, insurance emails? | `DOCS` — read them **first** and confirm the answers they contain instead of asking (AGENTS.md rule 9). A closing package alone answers Q3, Q4, Q4b, Q5, and Q9 |
+| Q15 | If contents were lost: do you have photos of the items or their data plates, and can you export your Amazon or retailer order history? | `CONTENTS_PHOTOS` yes/no · `ORDER_EXPORT` yes/no — routes to the contents workflow (AGENTS.md Step 4b, `templates/CONTENTS_INVENTORY_TEMPLATE.md`) |
 
 **Ask Q14 early** — right after Q1 if the user seems organized. Documents answer more
 questions than the user will remember to, and reading them prevents the assistant from
@@ -62,6 +63,9 @@ Immediate overrides, regardless of routing:
 - `ESTIMATE_GAP` = yes → open WS3's supplement step before the Proof of Loss is signed if
   possible, and in any case before the Proof of Loss deadline.
 - `SECOND_STRUCTURE` = yes → open WS5's demolition step even if the main house is fine.
+- `CONTENTS` = no (or `INSURED` = no) and personal property was lost → run the contents
+  workflow (AGENTS.md Step 4b) inside WS1; it feeds FEMA Other Needs, the tax deduction,
+  and SBA if used.
 - `TEAROUT_DONE` = yes and `INSPECTED` = no → flag in WS1 and WS3: evidence preservation is
   now the claim's foundation; get the remediation firm's drying logs and final moisture
   readings before the firm becomes unreachable.

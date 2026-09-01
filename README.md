@@ -57,6 +57,8 @@ homeowners five figures.
 | [templates/STATUS_TEMPLATE.md](templates/STATUS_TEMPLATE.md) | Append-only status log — copy it somewhere **private** and make it your single source of truth |
 | [templates/FUNDING_WORKSHEET.md](templates/FUNDING_WORKSHEET.md) | The 50% test, the NFIP combined-cap check, and the project funding ledger |
 | [templates/EVIDENCE_INDEX_TEMPLATE.md](templates/EVIDENCE_INDEX_TEMPLATE.md) | Damage/tear-out evidence manifest (critical if you gutted before the adjuster saw it) |
+| [templates/CONTENTS_INVENTORY_TEMPLATE.md](templates/CONTENTS_INVENTORY_TEMPLATE.md) | Contents / personal-property inventory: the workflow, the columns, FEMA's categories, and a photo index |
+| [tools/match_orders.py](tools/match_orders.py) | Searches an Amazon order-history export by keyword so plates become receipts (standard library only) |
 | `private/` (you create it) | Your filled-in templates, claim PDFs, FEMA letters, photos. It is git-ignored, so it can never be pushed by accident |
 
 **Suggested path:** read this page → copy the three templates into `private/` → work
@@ -171,6 +173,26 @@ enclosure underneath. If water stayed below the lowest living floor, most of thi
   (WS3), and closeout (WS8). Open WS5 only if the city sends a letter.
 - The real money question for you is usually the **dry-out invoice vs. the estimate** — see
   the emergency-mitigation row in the money map.
+
+---
+
+## Contents: what FEMA pays for, and why you list everything anyway
+
+Flood building coverage never pays for contents, and items stored in the space below an
+elevated floor are generally excluded even with contents coverage. So for most homeowners
+here, everything freestanding — appliances, furniture, tools, electronics, boat gear — is an
+**uninsured loss** with three possible homes:
+
+| Path | What it takes | What it pays on |
+|---|---|---|
+| **FEMA Other Needs Assistance** | Apply (WS2); FEMA inspects or requests documents | Its named categories only: appliances, room furnishings, items required for paid work or school, cleanup tools bought after the disaster. Depreciated value. Recreational and hobby property is generally outside. |
+| **IRS casualty-loss deduction** | Itemized inventory with depreciated values; a tax preparer | The whole list, subject to floors that depend on whether Congress designates this a qualified disaster. Ask a preparer. |
+| **SBA personal-property loan** | Application by 2026-10-26 | Up to $100,000 of verified uninsured loss, as a loan. Declining it is a real choice; FEMA no longer requires an SBA application. |
+
+Build one inventory and let each path take what it takes. The
+[contents template](templates/CONTENTS_INVENTORY_TEMPLATE.md) has the workflow that worked:
+data plates first, order-history export second, debris photos third, owner confirmation of
+every candidate row, and an honest use statement — "required for employment" means paid work.
 
 ---
 
@@ -294,6 +316,12 @@ FEMA other needs → SBA loans → charities**. Protect yourself:
 > sworn Proof of Loss deadline, whether FEMA has issued any written extension for this
 > Indiana event, and what evidence you need given that tear-out occurred before inspection."
 
+### Script — for a retailer, when the email has no price
+> "Please send the order details or receipt for order [number], placed [date], including the
+> item price, tax, and serial number if recorded. It is for a disaster-loss claim." (Most
+> big-box order-details pages print as a receipt with the serial on them; check the account
+> page before writing.)
+
 ### Script — for your remediation / dry-out firm
 > "Please send me, and submit to my flood adjuster (name, email, claim number below), the
 > itemized invoice with equipment counts and days, daily drying logs with temperature and
@@ -362,7 +390,8 @@ read every letter in the FEMA portal, and did I ask FEMA for vehicle help? 9 Mor
 I know my flood zone? 11 Any city (DBNS) letter, especially "substantial damage"? 11b Any
 second building on the property damaged or being demolished? 12 Any professionals involved;
 has a drying company finished and left, and what did it bill vs. the adjuster's estimate?
-13 My biggest worry in one sentence?
+12b Do I have photos of the lost items or their data plates, and can I export my Amazon
+order history? 13 My biggest worry in one sentence?
 
 THEN BUILD MY PLAN from these tracks (include a track only if its condition is true, in
 this order): displaced -> Temporary housing FIRST. Everyone -> Evidence, and Applications.
@@ -400,7 +429,10 @@ coverage; expect a small claim. Dry-out invoice above the adjuster's estimate: a
 carrier for a supplement (itemized invoice + drying logs + moisture readings), then the
 unpaid rest goes to FEMA as underinsured loss, then SBA, then the IRS casualty-loss
 deduction. An adjuster-prepared initial Proof of Loss is not a release; signing it keeps
-supplement rights. Flooded car: auto comprehensive pays first; rental cars usually are not
+supplement rights. Contents: no flood-policy money; FEMA pays only its named categories
+(appliances, furnishings, paid-work/school items, cleanup tools) at depreciated value; list
+everything anyway for the IRS casualty-loss deduction; "required for employment" means paid
+work, never overstate use. Flooded car: auto comprehensive pays first; rental cars usually are not
 covered - get that denial in writing for FEMA's vehicle document request; never send one
 invoice to two payers.
 

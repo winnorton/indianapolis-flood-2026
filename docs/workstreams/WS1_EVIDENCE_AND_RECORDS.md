@@ -25,6 +25,13 @@ them today." Use `templates/EVIDENCE_INDEX_TEMPLATE.md` as the checklist.
    one category, one payer (this prevents duplication-of-benefits debt later).
 6. **Write the timeline narrative:** dated first-person chronology from the flood to today.
    *Done when:* saved in the secure location; update weekly.
+7. **Build the contents inventory** (`templates/CONTENTS_INVENTORY_TEMPLATE.md`) if any
+   personal property was lost and it is not insured. Data plates first, order-history export
+   second (`tools/match_orders.py`), debris photos third for what was forgotten, owner
+   confirmation of every candidate row, kept-vs-disposed and tested-vs-not on each line, an
+   honest use statement, and a depreciated value. Keep a photo index so every file is
+   described once. *Done when:* every row has a photo, a source or an honest "in-store,
+   approx.", a FEMA category, and a value; candidates are confirmed or struck.
 
 ## Stop / escalate
 
